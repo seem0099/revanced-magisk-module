@@ -21,4 +21,5 @@ apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
 
 [Tiktok]
 apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
+build-mode = "both"
 
